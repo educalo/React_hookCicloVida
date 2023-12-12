@@ -1,0 +1,8 @@
+1.-desde una terminal npm install -g create-react-app
+2.-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+3.- create-react-app ciclovida
+4.- Creo dentro de scr/ la carpeta components y dentro el fichero index.js y el fichero Counter.jsx
+5.- En index.js tenemos la renderizacion de nuestra pagina
+6.- renombro el fichero App.js de la raiz por App.jsx y añado el componente Counter que he creado, este fichero App.jsx es el fichero inicial de ejecucion donde hacemos referencia a los componentes
+7.- Añadimos otro componente text.jsx dentro de la carpeta components
+8.- Creamos otro componente textH2.jsx dentro de la carpeta components
