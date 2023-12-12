@@ -1,3 +1,8 @@
+Ejemplo con video explicativo del manejo de hook, concretamente para crear un contador, tened en cuenta que cuando iniciamos el proyecto el manejo de la lógica está debajo del logo en movimiento de React.
+
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
